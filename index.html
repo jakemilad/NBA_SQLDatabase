@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>NBA Player Database</title>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css">
+        <link rel="stylesheet" href="./styles.css">
+    </head>
+    <body>
+        <div class="container text-center">
+            <br>
+            <h1>NBA Database:</h1><br><br><br>
+            <form method="POST" action="./insert/player_insert.php">
+                <input type="submit" value="Insert Player">
+            </form>
+            <br><br>
+
+            <form method="POST" action="./delete/endorsement_delete.php">
+                <input type="submit" value="Delete Endorsement">
+            </form>
+            <br><br>
+
+            <form method="POST" action="./update/coach_update.php">
+                <input type="submit" value="Update Coach">
+            </form>
+            <br><br>
+
+            <form method="POST" action="./selection/team_contract_selection.php">
+                <input type="submit" value="Selection">
+            </form>
+            <br><br>
+
+            <form method="POST" action="./projection/player_projection.php">
+                <input type="submit" value="Show All Players" >
+            </form>
+            <br><br>
+
+            <form method="POST" action="./join/endorsement_join.php">
+                <input type="submit" value="Show Players Endorsed" >
+            </form>
+            <br><br>
+
+            <form method="POST" action="./groupBy/player_groupby.php">
+                <input type="submit" value="Show Players Info in Each Team">
+            </form>
+            <br><br>
+
+            <form method="POST" action="./having/university_having.php">
+                <input type="submit" value="Show Universities">
+            </form>
+            <br><br>
+
+            <form method="POST" action="./nested_division/player_endorsements.php">
+                <input type="submit" value="Show Players Endorsed & Team who Won">
+            </form>
+            <br><br>
+        </div>
+    </body>
+</html>
