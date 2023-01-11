@@ -4,7 +4,7 @@
 | Name        | Student# | CS ID | Email                      |
 |-------------|----------|-------|----------------------------|
 
-| Jake Milad  | 14391544 | b2c3e | jake.milad@gmail.com       |
+| Jake Milad  |        |          | jake.milad@gmail.com      |
 
 
 # Milestones
