@@ -3,11 +3,10 @@
 # Team Member
 | Name        | Student# | CS ID | Email                      |
 |-------------|----------|-------|----------------------------|
-| Sophie Chai | 39763420 | l4h6k | chaisuefeisophie@gmail.com |
-| Yuyou Lai   | 37226214 | q2h2b | robinlaiyy@gmail.com       |
+
 | Jake Milad  | 14391544 | b2c3e | jake.milad@gmail.com       |
 
-TA Contact Info: Dora Ni (she/her), nijiayi1@student.ubc.ca
+
 # Milestones
 ### [ER Diagram](https://drive.google.com/file/d/1EFtZZ6AoraFS9EB25ZrKl2S0I9o57e3O/view?usp=sharing)
 
