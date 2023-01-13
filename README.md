@@ -1,5 +1,3 @@
-# CPSC 304: Introduction to Relational Databases Group 34
-
 # Team Member
 | Name        | Student# | CS ID | Email                      |
 |-------------|----------|-------|----------------------------|
